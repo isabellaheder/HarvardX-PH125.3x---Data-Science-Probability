@@ -1,4 +1,4 @@
-# QUESTION 1
+# QUESTION 1: Olympic running
 
 # In the 200m dash finals in the Olympics, 8 runners compete for 3 medals (order matters). In the 2012 Olympics, 
 #3 of the 8 runners were from Jamaica and the other 5 were from different countries. The three medals were all 
